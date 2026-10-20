@@ -34,7 +34,8 @@ jobs:
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add assets/posts
             git commit -m "Save Instagram covers [skip ci]"
-            git push
+            git pull --rebase origin main || true
+            git push origin HEAD:main || echo "Push skipped, covers are still in this deploy"
           fi
 
       - uses: actions/configure-pages@v5
