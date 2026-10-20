@@ -1,0 +1,63 @@
+{
+  "profile": {
+    "handle": "onoff.zone",
+    "instagram": "https://www.instagram.com/onoff.zone/",
+    "tagline": "Studio di design e comunicazione"
+  },
+  "links": [
+    {
+      "label": "Sito",
+      "url": "https://onoff.zone/it/"
+    },
+    {
+      "label": "Progetti",
+      "url": "https://onoff.zone/it/projects"
+    },
+    {
+      "label": "Mag",
+      "url": "https://onoff.zone/it/mag"
+    },
+    {
+      "label": "Contatti",
+      "url": "mailto:hello@onoff.zone"
+    }
+  ],
+  "posts": [
+    {
+      "id": "DerJ4CTDQjH",
+      "date": "2026-10-19",
+      "permalink": "https://www.instagram.com/onoff.zone/p/DerJ4CTDQjH/",
+      "title": "UpSea Down - UNESCO",
+      "url": "https://onoff.zone/it/projects/upsea-down",
+      "image": "assets/posts/DerJ4CTDQjH.jpg",
+      "source_image": "https://scontent-mxp2-1.cdninstagram.com/v/t51.82787-15/852345077_17939535930386548_5126151752604808921_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=-EDDGgHrQ6IQ7kNvwFJTQo0&_nc_oc=Adr5wXaJJmlm-H-h0fXzpEhUvILDrMrvPIBhrjDhQCJwEFUqBuo6kXwC7DYlcCNTKwI&_nc_zt=23&_nc_ht=scontent-mxp2-1.cdninstagram.com&_nc_gid=CNv1SU22MYSz09NyxrvJMg&_nc_ss=79689&oh=00_AQPzsV-GR3SKjM8hkefRPX8XXb9OfNqGmfqed4N8Q18G-A&oe=6ADD1A89"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "Dbir8HVjav7",
+      "permalink": "https://www.instagram.com/onoff.zone/p/Dbir8HVjav7/",
+      "reason": "escluso: nessun progetto o articolo dedicato su onoff.zone"
+    },
+    {
+      "id": "DbfUih_jTKi",
+      "permalink": "https://www.instagram.com/onoff.zone/p/DbfUih_jTKi/",
+      "reason": "escluso: nessun progetto o articolo dedicato su onoff.zone"
+    },
+    {
+      "id": "DS44LvFjS0k",
+      "permalink": "https://www.instagram.com/onoff.zone/p/DS44LvFjS0k/",
+      "reason": "escluso: nessun progetto o articolo dedicato su onoff.zone"
+    },
+    {
+      "id": "DS438PjjQcg",
+      "permalink": "https://www.instagram.com/onoff.zone/reel/DS438PjjQcg/",
+      "reason": "escluso: nessun progetto o articolo dedicato su onoff.zone"
+    },
+    {
+      "id": "DS43qbCDV3a",
+      "permalink": "https://www.instagram.com/onoff.zone/p/DS43qbCDV3a/",
+      "reason": "escluso: nessun progetto o articolo dedicato su onoff.zone"
+    }
+  ]
+}
